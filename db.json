@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Shiwani",
+      "email": "Shiwani@gmail.com",
+      "phone": 8888888888,
+      "address": "America"
+    },
+    {
+      "id": 3,
+      "name": "Shweta",
+      "email": "Shweta@gmail.com",
+      "phone": "52528899",
+      "address": "USA"
+    },
+    {
+      "id": 4,
+      "name": "Shalini",
+      "email": "Shalini@gmail.com",
+      "phone": "62628899",
+      "address": "UK"
+    }
+  ]
+}
